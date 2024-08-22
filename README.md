@@ -21,16 +21,15 @@ Dictionary App using HTML , CSS , SCSS , Javascript API
 
 </p>
 <img src="https://github.com/rajpronit/dictionary-app/blob/master/images/Screenshot1.png" />
+
 ## How to use ✍🏻⚙
-<p>
   
   - Type your word you want to search for it.
   
   - click on search button.
   
   - finally, the result would display on the screen with it's example and so on.
-    
-</p>
+
 
 ## API 👨🏻‍💻
 
