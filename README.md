@@ -20,7 +20,7 @@ Dictionary App using HTML , CSS , SCSS , Javascript API
 - Ensure cross-platform compatibility to make the dictionary accessible on various devices and browsers.
 
 </p>
-
+<img src="https://github.com/rajpronit/dictionary-app/blob/master/images/Screenshot1.png" />
 ## How to use ✍🏻⚙
 <p>
   
